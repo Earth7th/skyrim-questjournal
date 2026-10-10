@@ -1,14 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
   "dependencies": [
-    "directxmath",
-    "directxtk",
-    "fmt",
-    "nlohmann-json",
-    "rapidcsv",
     "simpleini",
+    "nlohmann-json",
+    "xbyak",
     "spdlog",
-    "toml11",
-    "xbyak"
+    "directxtk",
+    "rapidcsv"
   ]
 }
